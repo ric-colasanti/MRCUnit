@@ -1,0 +1,352 @@
+"","group_id","from","to","direction","theme_from","theme_to"
+"1","blue","codes_and_funding",NA,"","other",NA
+"2","blue","multi_disciplinary_system",NA,"","services",NA
+"3","blue","service_in_silos","boundaries","directional","relationships","other"
+"4","blue","service_in_silos",NA,"directional","relationships",NA
+"5","blue","service_in_silos","hoops_to_get_help","directional","relationships","services"
+"6","blue","service_in_silos","access_to_services","directional","relationships","services"
+"7","blue","procurement",NA,"","services",NA
+"8","blue","power",NA,"","other",NA
+"9","blue","services",NA,"","services",NA
+"10","blue","societal_policy ",NA,"","policies_and_funding",NA
+"11","blue","presentation_of_self","harm_being_hidden","directional","other","other"
+"12","blue","presentation_of_self","stigma","directional","other","contextual_factors"
+"13","blue","professional_hierarchy_identity",NA,"directional","services",NA
+"14","blue","policy_into_practice","lack_of_accountability","undirectional","policies_and_funding","other"
+"15","blue","lack_of_accountability",NA,"","other",NA
+"16","blue","service_in_silos",NA,"directional","services",NA
+"17","blue","lack_of_networks",NA,"","relationships",NA
+"18","blue","harm_being_hidden","lack_of_networks","directional ","other","relationships"
+"19","blue","vulnerabilities ","lack_of_networks","directional","personal_circumstance_experience","relationships"
+"20","blue","cardio_pulmonary_disease",NA,"","health_conditions",NA
+"21","blue","co_morbidity",NA,"","health_conditions",NA
+"22","blue","hoops_to_get_help","cardio_pulmonary_disease","directional","services","health_conditions"
+"23","blue","access_to_services","cardio_pulmonary_disease","directional ","services","health_conditions"
+"24","blue","boundaries","cardio_pulmonary_disease","directional","other","health_conditions"
+"25","blue",NA,"cardio_pulmonary_disease","directional ",NA,"health_conditions"
+"26","blue","hoops_to_get_help","co_morbidity","directional","services","health_conditions"
+"27","blue","access_to_services","co_morbidity","directional ","services","health_conditions"
+"28","blue","boundaries","co_morbidity","directional ","other","health_conditions"
+"29","blue",NA,"co_morbidity","directional ",NA,"health_conditions"
+"30","blue","international_evidence",NA,"","evidence ",NA
+"31","blue","medication",NA,"","drugs_and_drug_use",NA
+"32","blue","drug_laws","boundaries","directional ","criminal_justice","other"
+"33","blue","drug_laws",NA,"directional","criminal_justice",NA
+"34","blue","drug_laws","hoops_to_get_help","directional","criminal_justice","services"
+"35","blue","drug_laws","access_to_services","directional","criminal_justice","services"
+"36","blue","drug_laws","employment","directional","criminal_justice","personal_circumstance_experience"
+"37","blue","drug_laws","power","directional","criminal_justice","other"
+"38","blue","drug_laws","stigma","directional","criminal_justice","contextual_factors"
+"39","blue","employment",NA,"","personal_circumstance_experience",NA
+"40","blue","community_support",NA,"","other",NA
+"41","blue","trauma",NA,"","personal_circumstance_experience",NA
+"42","blue","stigma","treatment_of_others","directional ","contextual_factors","other"
+"43","blue","stigma","stigma","directional ","contextual_factors","personal_circumstance_experience"
+"44","blue","stigma","presentation_of_self","directional ","personal_circumstance_experience","other"
+"45","blue","treatment_of_others","stigma","undirectional","other","personal_circumstance_experience"
+"46","green","societal_policy ",NA,"","policies_and_funding",NA
+"47","green","drug_laws",NA,"directional ","criminal_justice",NA
+"48","green","drug_laws","drug_treatment","directional ","criminal_justice","drugs_and_drug_use"
+"49","green","drug_laws","criminal_justice_system","directional ","criminal_justice","criminal_justice"
+"51","green","drug_laws","housing_homelessness ","directional ","criminal_justice","personal_circumstance_experience"
+"52","green","drug_laws","drug_type","directional ","criminal_justice","drugs_and_drug_use"
+"53","green","drug_laws","adverse_childhood_experiences","directional ","criminal_justice","personal_circumstance_experience"
+"54","green","drug_laws","risky_drug_use","directional ","criminal_justice","drugs_and_drug_use"
+"55","green","drug_laws","deprivation","directional ","criminal_justice","personal_circumstance_experience"
+"56","green","harm_reduction_services","risky_drug_use","directional ","services","drugs_and_drug_use"
+"57","green","deprivation","criminal_justice_system","directional ","personal_circumstance_experience","criminal_justice"
+"58","green","deprivation",NA,"directional ","personal_circumstance_experience",NA
+"59","green","deprivation","housing_homelessness ","directional ","personal_circumstance_experience","personal_circumstance_experience"
+"60","green","deprivation","personal_relationships","directional ","personal_circumstance_experience","relationships"
+"61","green","deprivation","adverse_childhood_experiences","directional ","personal_circumstance_experience","personal_circumstance_experience"
+"62","green","deprivation","mental_health","directional ","personal_circumstance_experience","health_conditions"
+"63","green","deprivation","physical_health","directional ","personal_circumstance_experience","health_conditions"
+"64","green","drug_treatment","mental_health","directional ","drugs_and_drug_use","health_conditions"
+"65","green","drug_treatment","risky_drug_use","directional ","drugs_and_drug_use","drugs_and_drug_use"
+"66","green","drug_treatment","physical_health","directional ","drugs_and_drug_use","health_conditions"
+"67","green","criminal_justice_system","adverse_childhood_experiences","directional ","criminal_justice","personal_circumstance_experience"
+"68","green","criminal_justice_system","mental_health","directional ","criminal_justice","health_conditions"
+"69","green","poly_drug_use",NA,"","drugs_and_drug_use",NA
+"70","green","culture",NA,"","contextual_factors",NA
+"71","green","risk_environments",NA,"","contextual_factors",NA
+"72","green","recovery_capital",NA,"","personal_circumstance_experience",NA
+"73","green","education",NA,"","personal_circumstance_experience",NA
+"74","green","peer_groups",NA,"","relationships",NA
+"75","green","client_patient_relationship",NA,"","services",NA
+"76","green","social_exclusion",NA,"","personal_circumstance_experience",NA
+"77","green","drug_victimisation",NA,"","drugs_and_drug_use",NA
+"78","green","exploitation ",NA,"","personal_circumstance_experience",NA
+"79","green","deindustrialisation",NA,"","contextual_factors",NA
+"80","green","hope",NA,"","personal_circumstance_experience",NA
+"81","green","organised_crime_group",NA,"","criminal_justice",NA
+"82","green","stigma",NA,"","personal_circumstance_experience",NA
+"83","green","diet",NA,"","other",NA
+"84","green","violence",NA,"","personal_circumstance_experience",NA
+"85","green","workforce_development",NA,"","services",NA
+"86","red","deprivation","hope","directional ","personal_circumstance_experience","personal_circumstance_experience"
+"87","red","deprivation","social_inclusion","directional ","personal_circumstance_experience","personal_circumstance_experience"
+"88","red","deprivation","adverse_childhood_experiences","directional ","personal_circumstance_experience","personal_circumstance_experience"
+"89","red","deprivation","culture","directional ","personal_circumstance_experience","contextual_factors"
+"90","red","culture","normalising_behaviour","directional ","contextual_factors","other"
+"91","red","culture","funding_to_meet_need","directional ","contextual_factors","policies_and_funding"
+"92","red","funding_to_meet_need",NA,"directional ","policies_and_funding",NA
+"93","red","referall_for_substance_use",NA,"directional ","services",NA
+"94","red","service_quality",NA,"directional ","services",NA
+"95","red","range_of_core_services ","service_quality","directional ","services","services"
+"96","red","stigma","service_quality","directional ","personal_circumstance_experience","services"
+"97","red","stigma","adverse_childhood_experiences","directional ","personal_circumstance_experience","personal_circumstance_experience"
+"98","red","stigma","risky_drug_use","directional ","personal_circumstance_experience","drugs_and_drug_use"
+"99","red","stigma","hope","directional ","personal_circumstance_experience","personal_circumstance_experience"
+"100","red","hope","mental_health","directional ","personal_circumstance_experience","health_conditions"
+"101","red","hope","wellbeing","directional ","personal_circumstance_experience","personal_circumstance_experience"
+"102","red","hope","prescriptions_for_mental_health","directional ","personal_circumstance_experience","services"
+"103","red","adverse_childhood_experiences","wellbeing","directional ","personal_circumstance_experience","personal_circumstance_experience"
+"104","red","adverse_childhood_experiences","mental_health","directional ","personal_circumstance_experience","health_conditions"
+"105","red","adverse_childhood_experiences","prescriptions_for_mental_health","directional ","personal_circumstance_experience","services"
+"106","red","adverse_childhood_experiences",NA,"directional ","personal_circumstance_experience",NA
+"107","red","adverse_childhood_experiences","cardio_pulmonary_disease","directional ","personal_circumstance_experience","health_conditions"
+"108","red","adverse_childhood_experiences","respiratory_disease","directional ","personal_circumstance_experience","health_conditions"
+"109","red","social_inclusion",NA,"directional ","personal_circumstance_experience",NA
+"110","red","social_inclusion","cardio_pulmonary_disease","directional ","personal_circumstance_experience","health_conditions"
+"111","red","social_inclusion","respiratory_disease","directional ","personal_circumstance_experience","health_conditions"
+"112","red","mental_health",NA,"directional ","health_conditions",NA
+"113","red","mental_health","cardio_pulmonary_disease","directional ","health_conditions","health_conditions"
+"114","red","mental_health","respiratory_disease","directional ","health_conditions","health_conditions"
+"115","red","wellbeing",NA,"directional ","personal_circumstance_experience",NA
+"116","red","wellbeing","cardio_pulmonary_disease","directional ","personal_circumstance_experience","health_conditions"
+"117","red","wellbeing","respiratory_disease","directional ","personal_circumstance_experience","health_conditions"
+"118","red","prescriptions_for_mental_health",NA,"directional ","services",NA
+"119","red","prescriptions_for_mental_health","cardio_pulmonary_disease","directional ","services","health_conditions"
+"120","red","prescriptions_for_mental_health","respiratory_disease","directional ","services","health_conditions"
+"121","red","mental_health","risky_drug_use","directional ","health_conditions","drugs_and_drug_use"
+"122","red","mental_health","benzos","directional ","health_conditions","drugs_and_drug_use"
+"123","red","mental_health","poly_drug_use","directional ","health_conditions","drugs_and_drug_use"
+"124","red","wellbeing","risky_drug_use","directional ","personal_circumstance_experience","drugs_and_drug_use"
+"125","red","wellbeing","benzos","directional ","personal_circumstance_experience","drugs_and_drug_use"
+"126","red","wellbeing","poly_drug_use","directional ","personal_circumstance_experience","drugs_and_drug_use"
+"127","red","prescriptions_for_mental_health","risky_drug_use","directional ","services","drugs_and_drug_use"
+"128","red","prescriptions_for_mental_health","benzos","directional ","services","drugs_and_drug_use"
+"129","red","prescriptions_for_mental_health","poly_drug_use","directional ","services","drugs_and_drug_use"
+"130","red","hope","risky_drug_use","directional ","personal_circumstance_experience","drugs_and_drug_use"
+"131","red","hope","poly_drug_use","directional ","personal_circumstance_experience","drugs_and_drug_use"
+"132","red","hope","benzos","directional ","personal_circumstance_experience","drugs_and_drug_use"
+"133","red","availability_of_drugs","risky_drug_use","directional ","drugs_and_drug_use","drugs_and_drug_use"
+"134","red","availability_of_drugs","poly_drug_use","directional ","drugs_and_drug_use","drugs_and_drug_use"
+"135","red","availability_of_drugs","benzos","directional ","drugs_and_drug_use","drugs_and_drug_use"
+"136","red","drug_market","availability_of_drugs","directional ","drugs_and_drug_use","drugs_and_drug_use"
+"137","red","drug_strength","availability_of_drugs","directional ","drugs_and_drug_use","drugs_and_drug_use"
+"138","red","drug_market","drug_strength","undirectional","drugs_and_drug_use","drugs_and_drug_use"
+"139","red",NA,"stigma","directional ",NA,"personal_circumstance_experience"
+"140","red","deprivation","criminal_justice_system","directional ","personal_circumstance_experience","criminal_justice"
+"141","red","social_inclusion","criminal_justice_system","directional ","personal_circumstance_experience","criminal_justice"
+"142","red","criminal_justice_system","risky_drug_use","directional ","criminal_justice","drugs_and_drug_use"
+"143","red","criminal_justice_system","benzos","directional ","criminal_justice","drugs_and_drug_use"
+"144","red","criminal_justice_system","poly_drug_use","directional ","criminal_justice","drugs_and_drug_use"
+"145","red","criminal_justice_system","service_quality","undirectional","criminal_justice","services"
+"146","red","protective_factors",NA,"","other",NA
+"147","red","policy_and_politics","drug_market","directional ","policies_and_funding","drugs_and_drug_use"
+"148","red","policy_and_procedures","drug_market","directional ","policies_and_funding","drugs_and_drug_use"
+"149","red","triggers_and_resiliences","drug_market","directional ","other","drugs_and_drug_use"
+"150","red","dwp","drug_market","directional ","other","drugs_and_drug_use"
+"151","red","drug_laws","drug_market","directional ","criminal_justice","drugs_and_drug_use"
+"152","red","policy_and_politics","drug_knowledge_among_people_who_use_drugs","directional ","policies_and_funding","personal_circumstance_experience"
+"153","red","policy_and_procedures","drug_knowledge_among_people_who_use_drugs","directional ","policies_and_funding","personal_circumstance_experience"
+"154","red","triggers_and_resiliences","drug_knowledge_among_people_who_use_drugs","directional ","other","personal_circumstance_experience"
+"155","red","dwp","drug_knowledge_among_people_who_use_drugs","directional ","other","personal_circumstance_experience"
+"156","red","drug_laws","drug_knowledge_among_people_who_use_drugs","directional ","criminal_justice","personal_circumstance_experience"
+"157","red","policy_and_politics","criminal_justice_system","directional ","policies_and_funding","criminal_justice"
+"158","red","policy_and_procedures","criminal_justice_system","directional ","policies_and_funding","criminal_justice"
+"159","red","triggers_and_resiliences","criminal_justice_system","directional ","other","criminal_justice"
+"160","red","dwp","criminal_justice_system","directional ","other","criminal_justice"
+"161","red","drug_laws","criminal_justice_system","directional ","criminal_justice","criminal_justice"
+"162","red","policy_and_politics","deprivation","directional ","policies_and_funding","personal_circumstance_experience"
+"163","red","policy_and_procedures","deprivation","directional ","policies_and_funding","personal_circumstance_experience"
+"164","red","triggers_and_resiliences","deprivation","directional ","other","personal_circumstance_experience"
+"165","red","dwp","deprivation","directional ","other","personal_circumstance_experience"
+"166","red","drug_laws","deprivation","directional ","criminal_justice","personal_circumstance_experience"
+"167","red","policy_and_politics","adverse_childhood_experiences","directional ","policies_and_funding","personal_circumstance_experience"
+"168","red","policy_and_procedures","adverse_childhood_experiences","directional ","policies_and_funding","personal_circumstance_experience"
+"169","red","triggers_and_resiliences","adverse_childhood_experiences","directional ","other","personal_circumstance_experience"
+"170","red","dwp","adverse_childhood_experiences","directional ","other","personal_circumstance_experience"
+"171","red","drug_laws","adverse_childhood_experiences","directional ","criminal_justice","personal_circumstance_experience"
+"172","red","adverse_childhood_experiences","quality_of_life","directional ","personal_circumstance_experience","personal_circumstance_experience"
+"173","red","social_inclusion","quality_of_life","directional ","personal_circumstance_experience","personal_circumstance_experience"
+"174","red","mental_health","quality_of_life","directional ","health_conditions","personal_circumstance_experience"
+"175","red","wellbeing","quality_of_life","directional ","personal_circumstance_experience","personal_circumstance_experience"
+"176","red","prescriptions_for_mental_health","quality_of_life","directional ","services","personal_circumstance_experience"
+"177","red","trauma",NA,"","personal_circumstance_experience",NA
+"178","red","significant_events",NA,"","personal_circumstance_experience",NA
+"179","red","unmet_needs",NA,"","personal_circumstance_experience",NA
+"180","red","inequality",NA,"","contextual_factors",NA
+"181","red","barriers_to_accessing_help",NA,"","services",NA
+"182","red","place",NA,"","contextual_factors",NA
+"183","red","inequaitable_access_to_services",NA,"","services",NA
+"184","red",NA,NA,"",NA,NA
+"185","red","stigma",NA,"","personal_circumstance_experience",NA
+"186","red","stigma",NA,"","contextual_factors",NA
+"187","red","drug_laws",NA,"","criminal_justice",NA
+"188","red","resources_and_funding",NA,"","policies_and_funding",NA
+"189","red","deprivation",NA,"","contextual_factors",NA
+"190","red","cost_of_drugs",NA,"","drugs_and_drug_use",NA
+"191","red","drug_market",NA,"","contextual_factors",NA
+"192","red","access_to_safe_supply_of_drugs",NA,"","drugs_and_drug_use",NA
+"193","red","service_in_silos",NA,"","services",NA
+"194","red","personal_relationships",NA,"","relationships",NA
+"195","red","community_support",NA,"","relationships",NA
+"196","red","drug_tolerance",NA,"","drugs_and_drug_use",NA
+"197","red","lone_drug_use",NA,"","drugs_and_drug_use",NA
+"198","red","lack_of_public_overdose_awareness",NA,"","contextual_factors",NA
+"199","red","transitions_between_services ",NA,"","services",NA
+"200","blue","personal_relationships",NA,"","relationships",NA
+"201","blue","personal_resources",NA,"","personal_circumstance_experience",NA
+"203","blue","pain",NA,"","health_conditions",NA
+"205","orange","professional_relationships",NA,"","relationships",NA
+"206","orange","personal_relationships",NA,"","relationships",NA
+"207","orange","trust",NA,"","relationships",NA
+"208","orange","powerlessness",NA,"","personal_circumstance_experience",NA
+"209","orange","deprivation",NA,"","personal_circumstance_experience",NA
+"210","orange","deprivation",NA,"","relationships",NA
+"211","orange","lack_of_opportunity ",NA,"","personal_circumstance_experience",NA
+"212","orange","education",NA,"","personal_circumstance_experience",NA
+"215","orange","personal_resources",NA,"","personal_circumstance_experience",NA
+"216","orange","self_efficacy",NA,"","personal_circumstance_experience",NA
+"217","orange","social_exclusion",NA,"","personal_circumstance_experience",NA
+"218","orange","prescribing_guidance",NA,"","services",NA
+"219","orange","drug_laws",NA,"","criminal_justice",NA
+"220","orange","frailty",NA,"","health_conditions",NA
+"221","orange","inverse_care_law",NA,"","services",NA
+"222","orange","near_fatal_overdose",NA,"","personal_circumstance_experience",NA
+"223","orange","drug_use_setting",NA,"","drugs_and_drug_use",NA
+"224","orange","drug_dependence",NA,"","personal_circumstance_experience",NA
+"225","orange","drug_knowledge_among_people_who_use_drugs",NA,"","personal_circumstance_experience",NA
+"226","orange","cognition",NA,"","personal_circumstance_experience",NA
+"227","orange","co_morbidity",NA,"","health_conditions",NA
+"228","orange","severity_of_health_conditions",NA,"","health_conditions",NA
+"229","orange","leg_conditions",NA,"","health_conditions",NA
+"230","orange","respiratory_disease",NA,"","health_conditions",NA
+"231","orange","hepatitis",NA,"","health_conditions",NA
+"232","orange","lifestyle_choices",NA,"","personal_circumstance_experience",NA
+"233","orange","drug_dependence",NA,"","drugs_and_drug_use",NA
+"234","orange","physical_resilience",NA,"","personal_circumstance_experience",NA
+"235","orange","physical_health",NA,"","personal_circumstance_experience",NA
+"236","orange","mental_health",NA,"","health_conditions",NA
+"237","orange","adhd",NA,"","health_conditions",NA
+"238","orange","emotional_regulation",NA,"","personal_circumstance_experience",NA
+"239","orange","executive_function",NA,"","personal_circumstance_experience",NA
+"240","orange","trauma",NA,"","personal_circumstance_experience",NA
+"241","orange","adverse_childhood_experiences",NA,"","personal_circumstance_experience",NA
+"242","orange","criminal_justice_system",NA,"","criminal_justice",NA
+"243","orange","housing_homelessness",NA,"","personal_circumstance_experience",NA
+"244","orange","health_services",NA,"","services",NA
+"245","orange","social_services",NA,"","services",NA
+"246","orange","access_to_services",NA,"","services",NA
+"247","orange","treatment_regimes ",NA,"","services",NA
+"248","orange","ethnicity ",NA,"","personal_circumstance_experience",NA
+"249","orange","drug_use","health","directional","drugs_and_drug_use","health_conditions"
+"250","orange","drug_use","wellbeing","directional","drugs_and_drug_use","personal_circumstance_experience"
+"251","orange","trust","drug_use","directional","relationships","drugs_and_drug_use"
+"253","orange","trust","mental_health","directional","relationships","health_conditions"
+"255","orange","mental_health","sedatives","directional","health_conditions","drugs_and_drug_use"
+"256","orange","sedatives","respiratory_disease","directional","drugs_and_drug_use","health_conditions"
+"257","orange","respiratory_disease","drug_related_deaths","directional","health_conditions","other"
+"258","orange","drug_type","sedatives","directional","drugs_and_drug_use","drugs_and_drug_use"
+"259","orange","drug_type","drug_strength","directional","drugs_and_drug_use","drugs_and_drug_use"
+"260","orange","exposure_to_drugs","drug_type","directional","contextual_factors","drugs_and_drug_use"
+"261","orange","exposure_to_drugs","attitude_to_risk","directional","contextual_factors","personal_circumstance_experience"
+"262","orange","culture","exposure_to_drugs","directional","contextual_factors","contextual_factors"
+"263","orange","culture","treatment_expectations","directional","contextual_factors","personal_circumstance_experience"
+"264","orange","treatment_expectations","access_to_services","directional","personal_circumstance_experience","services"
+"265","orange","pain",NA,"","health_conditions",NA
+"266","orange","health","medication","directional","health_conditions","drugs_and_drug_use"
+"267","orange","mental_health","medication","directional","health_conditions","drugs_and_drug_use"
+"268","orange","medication","drug_tolerance","directional","drugs_and_drug_use","drugs_and_drug_use"
+"269","orange","co_morbidity","drug_related_deaths","directional","health_conditions","other"
+"270","orange","health","co_morbidity","directional","health_conditions","health_conditions"
+"271","orange","mental_health","co_morbidity","directional","health_conditions","health_conditions"
+"272","orange","age","co_morbidity","directional","personal_circumstance_experience","health_conditions"
+"273","orange","age","knowledge_of_drugs","directional","personal_circumstance_experience","personal_circumstance_experience"
+"274","orange","age","naivety","directional","personal_circumstance_experience","drugs_and_drug_use"
+"276","orange","personality",NA,"","personal_circumstance_experience",NA
+"277","orange","gender","attitude_to_risk","directional","personal_circumstance_experience","personal_circumstance_experience"
+"278","orange","naivety","attitude_to_risk","directional","drugs_and_drug_use","personal_circumstance_experience"
+"279","orange",NA,NA,"",NA,NA
+"280","orange","quality_of_drugs",NA,"","drugs_and_drug_use",NA
+"281","orange","drug_strength",NA,"","drugs_and_drug_use",NA
+"283","orange","availability_of_drugs",NA,"","drugs_and_drug_use",NA
+"284","orange","cost_of_drugs",NA,"","drugs_and_drug_use",NA
+"285","orange","health","coping_mechanism","directional","health_conditions","drugs_and_drug_use"
+"286","orange","wellbeing","coping_mechanism","directional","personal_circumstance_experience","drugs_and_drug_use"
+"287","orange","mental_health","coping_mechanism","directional","health_conditions","drugs_and_drug_use"
+"288","orange","coping_mechanism","drug_use","directional","drugs_and_drug_use","drugs_and_drug_use"
+"289","orange","dosing_regime","dosing_regime","directional","drugs_and_drug_use","drugs_and_drug_use"
+"290","orange","dosing_regime","drug_tolerance","directional","drugs_and_drug_use","drugs_and_drug_use"
+"291","orange","dosing_regime","mental_health","directional","drugs_and_drug_use","health_conditions"
+"292","orange","mental_health","mental_health","directional","health_conditions","health_conditions"
+"293","orange","trust","happiness","directional","relationships","personal_circumstance_experience"
+"294","orange","happiness","mental_health","directional","personal_circumstance_experience","health_conditions"
+"295","orange","dosing_regime","missed_appointments","directional","drugs_and_drug_use","services"
+"296","orange","dosing_regime","failed_engagement_with_services","directional","drugs_and_drug_use","services"
+"297","orange","inverse_care_law","failed_engagement_with_services","directional","services","services"
+"298","orange","inverse_care_law","missed_appointments","directional","services","services"
+"299","orange","inverse_care_law","quality_of_relationship_with_services","directional","services","relationships"
+"300","orange","inverse_care_law","availability_of_services","directional","services","services"
+"301","orange","alcohol_drug_partnership_funding_cuts","access_to_services","directional","policies_and_funding","services"
+"302","orange","alcohol_drug_partnership_funding_cuts","availability_of_services","directional","policies_and_funding","services"
+"303","orange","availability_of_services","access_to_services","directional","services","services"
+"304","orange","access_to_services","retention_in_services","undirectional","services","services"
+"305","orange","harm_reduction_services","enhanced_services","undirectional","services","services"
+"306","orange","enhanced_services","drug_consumption_rooms_access","undirectional","services","services"
+"307","orange","enhanced_services","drug_checking_services","undirectional","services","services"
+"308","orange","evidence","change_in_policy","directional","evidence ","policies_and_funding"
+"309","orange","change_in_policy","culture","directional","policies_and_funding","contextual_factors"
+"310","orange","culture","culture","directional","contextual_factors","contextual_factors"
+"311","orange","culture","place","directional","contextual_factors","personal_circumstance_experience"
+"312","orange","place","lone_drug_use","undirectional","personal_circumstance_experience","drugs_and_drug_use"
+"313","orange","lone_drug_use","drug_type","directional","drugs_and_drug_use","drugs_and_drug_use"
+"314","orange","lone_drug_use","risky_drug_use","directional","drugs_and_drug_use","drugs_and_drug_use"
+"315","orange","lone_drug_use","practical_support","directional","drugs_and_drug_use","relationships"
+"316","orange","practical_support","alarm_raising","directional","relationships","drugs_and_drug_use"
+"317","orange","alarm_raising","drug_related_deaths","directional","drugs_and_drug_use","other"
+"318","orange","trust","practical_support","undirectional","relationships","relationships"
+"319","orange","dosing_regime","lone_drug_use","directional","drugs_and_drug_use","drugs_and_drug_use"
+"320","orange","dosing_regime","importance_of_drugs","directional","drugs_and_drug_use","personal_circumstance_experience"
+"321","orange","importance_of_drugs","drug_use","directional","personal_circumstance_experience","drugs_and_drug_use"
+"322","orange","dosing_regime","trust","undirectional","drugs_and_drug_use","relationships"
+"323","orange","trust",NA,"undirectional","relationships",NA
+"324","orange","community_support",NA,"undirectional","relationships",NA
+"325","orange","place",NA,"undirectional","personal_circumstance_experience",NA
+"326","orange","community_support","place","undirectional","relationships","personal_circumstance_experience"
+"327","orange","employment",NA,"","personal_circumstance_experience",NA
+"328","orange","deprivation","inverse_care_law","undirectional","personal_circumstance_experience","services"
+"330","orange","deprivation","culture","undirectional","personal_circumstance_experience","contextual_factors"
+"331","orange","inverse_care_law","place","undirectional","services","personal_circumstance_experience"
+"332","orange","stigma",NA,"","personal_circumstance_experience",NA
+"333","blue","power",NA,"directional","other",NA
+"334","blue","hierarchy_in_source_of_evidence","lived_experience_evidence","undirectional","evidence ","evidence "
+"335","blue","hierarchy_in_source_of_evidence","academic_evidence","undirectional","evidence ","evidence "
+"336","blue","lack_of_trust_in_evidence",NA,"","evidence ",NA
+"337","blue","professional_interest_group",NA,"","services",NA
+"338","blue","stigma","hierarchy_in_source_of_evidence","directional","personal_circumstance_experience","evidence "
+"339","blue","privileging_types_of_evidence","hierarchy_in_source_of_evidence","directional","evidence ","evidence "
+"340","blue","funding","privileging_types_of_evidence","directional","policies_and_funding","evidence "
+"341","blue","implementation_of_research_findings",NA,"","evidence ",NA
+"342","blue","positive_and_negative_influences",NA,"","other",NA
+"343","blue","social_network_theory",NA,"","relationships",NA
+"344","blue","professional_framework_power",NA,"","services",NA
+"345","blue","tragedy_and_strength",NA,"","other",NA
+"346","blue","service_in_silos",NA,"","relationships",NA
+"348","blue","stigma","peer_worker_pay_differential","","personal_circumstance_experience","services"
+"349","blue","stigma","stigma","","personal_circumstance_experience","personal_circumstance_experience"
+"350","blue","stigma","penalising_individuals_change_in_dispensing","","personal_circumstance_experience","other"
+"351","blue","stigma","amount_of_public_discourse","","personal_circumstance_experience","contextual_factors"
+"352","blue","stigma","hidden_pharmacy_corner","","personal_circumstance_experience","services"
+"353","blue","civic_society","representation_in_organisations","","other","relationships"
+"354","blue","civic_society","quality_of_treatment_planning","","other","services"
+"355","blue","civic_society","levels_of_civic_engagment ","","other","other"
+"356","blue","access_to_services","fixed_criteria","","services","other"
+"357","blue","access_to_services","services_communication","","services","services"
+"358","blue","access_to_services","service_activity_before_death","","services","services"
+"359","blue","fundamental_needs","deprivation","","other","personal_circumstance_experience"
+"360","blue","fundamental_needs","housing_homelessness ","","other","personal_circumstance_experience"
+"361","blue","fundamental_needs","levels_of_civic_engagment ","","other","other"
+"362","blue","fundamental_needs","citizenship","","other","contextual_factors"
